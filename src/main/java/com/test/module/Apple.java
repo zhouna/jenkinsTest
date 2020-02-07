@@ -1,7 +1,7 @@
 package com.test.module;
 
 public class Apple {
-    private String name = "aabbbb";
+    private String name = "wa haha...";
 
     public String getName() {
         return name;
